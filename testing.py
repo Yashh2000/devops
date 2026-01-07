@@ -1,0 +1,1 @@
+print("hello bhadwpp kya hal h jhatu log")
