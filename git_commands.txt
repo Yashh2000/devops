@@ -1,0 +1,16 @@
+  rm testing.py
+   git init
+  ls -a
+    git status
+  git status
+ git add testing.py
+  clear
+ git status
+   git commit -m "adding file"
+  git status
+   rm testing.py
+ clear 
+ git status
+   restore testing.py
+  git restore testing.py
+   cleargit 
