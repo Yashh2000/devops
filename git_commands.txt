@@ -1,3 +1,4 @@
+<<<<<<< HEAD
   rm testing.py
    git init
   ls -a
@@ -14,3 +15,6 @@
    restore testing.py
   git restore testing.py
    cleargit 
+=======
+this is some new changes
+>>>>>>> 6eb25f7b174db3fb7ad51b22a7199c98729900b1
